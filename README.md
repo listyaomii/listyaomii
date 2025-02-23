@@ -10,11 +10,17 @@
         </a>
         <span style="margin-left: 10px;">listyaomi</span>
     </div>
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
         <a href="https://twitter.com" target="_blank">
             <img src="https://banner2.cleanpng.com/20240402/sff/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" alt="Twitter" style="width: 30px; height: 30px;"/>
         </a>
         <span style="margin-left: 10px;">listyaomi</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <a href="https://share.streamlit.io/user/listyaomii" target="_blank">
+            <img src="https://miro.medium.com/v2/resize:fit:628/1*MpZGG5oPHVFlFDTu4b_1IA.png" alt="Streamlit" style="width: 30px; height: 30px;"/>
+        </a>
+        <span style="margin-left: 10px;">listyaomii</span>
     </div>
 </p>
 
