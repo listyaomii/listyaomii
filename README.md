@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm listyaomi</h1>
 <h3 align="center">A passionate developer from Bali</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <a href="https://www.instagram.com/listyaomi" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px;"/>
+        </a>
+        <span style="margin-left: 10px;">listyaomi</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <a href="https://twitter.com/hannieieyo" target="_blank">
+            <img src="https://banner2.cleanpng.com/20240402/sff/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" alt="Twitter" style="width: 30px; height: 30px;"/>
+        </a>
+        <span style="margin-left: 10px;">listyaomi</span>
+    </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
