@@ -11,7 +11,7 @@
         <span style="margin-left: 10px;">listyaomi</span>
     </div>
     <div style="display: flex; align-items: center;">
-        <a href="https://twitter.com/hannieieyo" target="_blank">
+        <a href="https://twitter.com" target="_blank">
             <img src="https://banner2.cleanpng.com/20240402/sff/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" alt="Twitter" style="width: 30px; height: 30px;"/>
         </a>
         <span style="margin-left: 10px;">listyaomi</span>
